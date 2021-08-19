@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @woutertrappers
+- 👀 I’m interested in data engineering, business intelligence and data visualisation
+- 🌱 I’m currently learning php laravel and building a playground to test some concepts using northwind demo database
+- 💞️ I’m looking to collaborate on data engineering projects
+- 📫 How to reach me: send me an email on wouter@xudo.be
