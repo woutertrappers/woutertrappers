@@ -2,4 +2,5 @@
 - 👀 I’m interested in data engineering, business intelligence and data visualisation
 - 🌱 I’m currently learning AI assisted developement with a nl2sql project to learn from: https://whisperql.be
 - 💞️ I’m looking to collaborate on data engineering projects
+- 👟 Hobbies are Crossfit, Hip Hop dance and Boardgames
 - 📫 How to reach me: send me an email on wouter@xudo.be
